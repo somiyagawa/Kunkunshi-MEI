@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title />
+         </titleStmt>
+         <pubStmt>
+            <date isodate="2023-08-26-10:21:04" />
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application xml:id="verovio" version="3.16.0-6dc700d">
+               <name>Verovio (3.16.0-6dc700d)</name>
+            </application>
+         </appInfo>
+         <projectDesc>
+            <p>MEI encoded with Verovio</p>
+            <p>Converted from Plaine and Easie to MEI</p>
+         </projectDesc>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m1sqgsul">
+            <score xml:id="s11rutd2">
+               <scoreDef xml:id="swigvp2">
+                  <staffGrp xml:id="s1wvbc8t">
+                     <staffDef xml:id="s4s4uc4" n="1" lines="5" clef.shape="G" clef.line="2" />
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1ho95rp">
+                  <measure xml:id="mfnjo7e" right="invis">
+                     <staff xml:id="smwmthe" n="1">
+                        <layer xml:id="l14fmeoc" n="1">
+                           <note xml:id="nhbsl03" dur="4" oct="4" pname="a" />
+                           <note xml:id="nmyzslu" dur="8" oct="4" pname="a" />
+                           <note xml:id="n6ug31v" dur="8" oct="4" pname="a" />
+                           <note xml:id="n1bcu6sn" dur="8" oct="4" pname="b">
+                              <accid xml:id="a1m11mph" accid="f" />
+                           </note>
+                           <note xml:id="n1k4iy3e" dur="8" oct="4" pname="a" />
+                           <note xml:id="n1blotdo" dur="4" oct="4" pname="g" />
+                           <note xml:id="n98porn" dur="4" oct="4" pname="f" />
+                           <note xml:id="nsm35er" dur="4" oct="4" pname="e" />
+                           <note xml:id="n2rcrlx" dur="4" oct="4" pname="f" />
+                           <note xml:id="nmwwo00" dur="4" oct="4" pname="f" />
+                           <note xml:id="n1s4ffnc" dur="4" oct="4" pname="a" />
+                           <note xml:id="n9ixwzy" dur="8" oct="4" pname="a" />
+                           <note xml:id="n1ffvwuh" dur="8" oct="5" pname="c" />
+                           <note xml:id="nzosgrv" dur="4" oct="5" pname="e" />
+                           <note xml:id="n1q84ocf" dur="4" oct="5" pname="e" />
+                           <note xml:id="n1gzuhvg" dur="4" oct="5" pname="f" />
+                           <note xml:id="n1vw1hrc" dur="4" oct="5" pname="f" />
+                           <note xml:id="n36inxr" dur="4" oct="5" pname="e" />
+                           <note xml:id="na56g6u" dur="4" oct="5" pname="f" />
+                           <note xml:id="n4ks4fv" dur="4" oct="4" pname="a" />
+                           <note xml:id="n147azdb" dur="8" oct="4" pname="a" />
+                           <note xml:id="n1kzq82m" dur="8" oct="4" pname="a" />
+                           <note xml:id="nshell2" dur="8" oct="4" pname="b">
+                              <accid xml:id="a1oxd4nf" accid="f" />
+                           </note>
+                           <note xml:id="na734np" dur="8" oct="4" pname="a" />
+                           <note xml:id="n1cybpcc" dur="4" oct="4" pname="g" />
+                           <note xml:id="n15wwqth" dur="4" oct="4" pname="f" />
+                           <note xml:id="nv3lqdm" dur="4" oct="4" pname="e" />
+                           <note xml:id="n2gqwr3" dur="4" oct="4" pname="f" />
+                           <note xml:id="n1pfogn4" dur="4" oct="4" pname="f" />
+                           <note xml:id="n8j2ung" dur="4" oct="4" pname="a" />
+                           <note xml:id="n1ahluu1" dur="8" oct="4" pname="a" />
+                           <note xml:id="n1iiegxs" dur="8" oct="4" pname="a" />
+                           <note xml:id="nrbcoh7" dur="8" oct="4" pname="b">
+                              <accid xml:id="a23h8om" accid="f" />
+                           </note>
+                           <note xml:id="nmlv5y5" dur="8" oct="4" pname="a" />
+                           <note xml:id="n14xmp24" dur="4" oct="4" pname="g" />
+                           <note xml:id="nju2rxn" dur="4" oct="4" pname="e" />
+                           <note xml:id="nzodm98" dur="4" oct="4" pname="f" />
+                           <note xml:id="n1mj6nxn" dur="4" oct="4" pname="f" />
+                           <note xml:id="n1d0qcvg" dur="4" oct="4" pname="a" />
+                           <note xml:id="neeh8fz" dur="8" oct="4" pname="a" />
+                           <note xml:id="n5odh2d" dur="8" oct="4" pname="a" />
+                           <note xml:id="n16gprxv" dur="8" oct="4" pname="b">
+                              <accid xml:id="a16wv72r" accid="f" />
+                           </note>
+                           <note xml:id="n1w2vfrn" dur="8" oct="4" pname="a" />
+                           <note xml:id="nk6xyvl" dur="4" oct="4" pname="g" />
+                           <note xml:id="nhghzyb" dur="4" oct="4" pname="f" />
+                           <note xml:id="ngx8bjh" dur="4" oct="4" pname="e" />
+                           <note xml:id="n82fpt" dur="4" oct="4" pname="f" />
+                           <note xml:id="n3elz0m" dur="4" oct="4" pname="f" />
+                           <note xml:id="n1bb0tuc" dur="4" oct="4" pname="a" />
+                           <note xml:id="n6sh6uc" dur="8" oct="4" pname="a" />
+                           <note xml:id="ngj8qwy" dur="8" oct="5" pname="c" />
+                           <note xml:id="nfggj11" dur="4" oct="5" pname="e" />
+                           <note xml:id="n1waypqj" dur="4" oct="5" pname="e" />
+                           <note xml:id="nfx25hn" dur="4" oct="5" pname="f" />
+                           <note xml:id="n3ie8ud" dur="4" oct="5" pname="f" />
+                           <note xml:id="n37hn12" dur="4" oct="5" pname="e" />
+                           <note xml:id="n1kyp1ws" dur="4" oct="5" pname="f" />
+                           <note xml:id="n1eyoooy" dur="4" oct="4" pname="a" />
+                           <note xml:id="nwtw03u" dur="8" oct="4" pname="a" />
+                           <note xml:id="n12ecyql" dur="8" oct="4" pname="a" />
+                           <note xml:id="njwwkjn" dur="8" oct="4" pname="b">
+                              <accid xml:id="a1n0fw13" accid="f" />
+                           </note>
+                           <note xml:id="nzub3xf" dur="8" oct="4" pname="a" />
+                           <note xml:id="nzv1mc9" dur="4" oct="4" pname="g" />
+                           <note xml:id="n14qhuvu" dur="4" oct="4" pname="f" />
+                           <note xml:id="n1dict13" dur="4" oct="4" pname="e" />
+                           <note xml:id="ncz237t" dur="4" oct="4" pname="f" />
+                           <note xml:id="nwxt00x" dur="4" oct="4" pname="f" />
+                           <note xml:id="ndvl5ld" dur="4" oct="4" pname="a" />
+                           <note xml:id="n1nwbnw5" dur="8" oct="4" pname="a" />
+                           <note xml:id="n1r78e3w" dur="8" oct="4" pname="a" />
+                           <note xml:id="njepdrb" dur="8" oct="4" pname="b">
+                              <accid xml:id="a13viyd2" accid="f" />
+                           </note>
+                           <note xml:id="n1y47wy7" dur="8" oct="4" pname="a" />
+                           <note xml:id="nqqgytg" dur="4" oct="4" pname="g" />
+                           <note xml:id="nmeaduc" dur="4" oct="4" pname="e" />
+                           <note xml:id="n4oqxce" dur="4" oct="4" pname="f" />
+                           <note xml:id="n1bpmbr1" dur="4" oct="4" pname="f" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
